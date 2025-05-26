@@ -1,0 +1,13 @@
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. 
+These processes include learning, reasoning, and self-correction. AI is used in various fields such as healthcare, finance, 
+education, and autonomous vehicles.
+
+Machine Learning (ML) is a subset of AI that focuses on the development of algorithms that allow computers to learn from and 
+make predictions or decisions based on data. Deep Learning, a subset of ML, uses neural networks to analyze various factors 
+of data.
+
+Natural Language Processing (NLP) is a field of AI that gives machines the ability to read, understand, and respond to human 
+languages. It is used in applications like chatbots, translation tools, and sentiment analysis.
+
+As technology advances, AI continues to grow in capability and influence, raising both opportunities and ethical concerns 
+about its impact on society.
